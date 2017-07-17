@@ -1,0 +1,41 @@
+body {background:grey}
+@media only screen and (max-width: 150px) {
+    body {
+        background-color: grey;
+    }
+}
+
+i { color :red;
+
+	}
+
+	div {
+		  border-top: 1px;
+border-top: 2px dotted;
+border-top: medium dashed green;
+  background-color: purple;
+  color: white;
+  text-shadow: orange 1px 1px;
+  font-weight: bold;
+  font-variant: small-caps;
+  font-size: 1em;
+  font-family: Helvetica;
+  padding: 10px;
+  margin: 10px;
+  width: 50%;
+	}
+
+	body {
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/d2/ab/23/d2ab23cff4f6632ccc0d26a1f115a078.jpg");
+}
+
+.center {
+    margin: auto;
+    width: 20%;
+    border: 1px solid green;
+    padding: 5px;
+}
+
+h1.em {
+	color :black;
+}
